@@ -29,7 +29,7 @@ storage:
 
 spring:
   datasource:
-    url: "mysql://root:EbDnhLzIwTOJJpcoRKIOGdcweglyotCo@shinkansen.proxy.rlwy.net:30737/railway?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Ho_Chi_Minh"
+    url: "jdbc:mysql://root:EbDnhLzIwTOJJpcoRKIOGdcweglyotCo@shinkansen.proxy.rlwy.net:30737/railway?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Ho_Chi_Minh"
     username: root
     password: EbDnhLzIwTOJJpcoRKIOGdcweglyotCo
     hikari:
